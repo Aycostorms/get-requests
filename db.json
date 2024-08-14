@@ -1,0 +1,33 @@
+{
+  "LeadingCast": [
+    {
+      "id": 1,
+      "name": "Jane Smith",
+      "role": "Dr. Evelyn Harper",
+      "description": "A versatile actress celebrated for her roles in critically acclaimed dramas, Jane Smith takes on a challenging role in \"Midnight Echo,\" delivering a performance that will leave audiences breathless."
+    },
+    {
+      "id": 2,
+      "name": "John Brown",
+      "role": "Detective Alex Turner",
+      "description": "With a career spanning blockbuster hits and indie gems, John Brown brings intensity and depth to his role, making his character unforgettable."
+    }
+  ],
+  "SupportingCast": [
+    {
+      "id": 1,
+      "name": "Rachel Adams",
+      "role": "Sarah Bennett"
+    },
+    {
+      "id": 2,
+      "name": "Michael Reed",
+      "role": "David Langston"
+    },
+    {
+      "id": 3,
+      "name": "Emily Clark",
+      "role": "Maya Collins"
+    }
+  ]
+}
